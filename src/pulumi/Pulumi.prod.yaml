@@ -1,0 +1,9 @@
+config:
+  equiny-infra:projectId: equiny
+  equiny-infra:region: us-east1
+  equiny-infra:garRepository: equiny
+  equiny-infra:cloudRunService: equiny-server
+  equiny-infra:githubOwner: JohnPetros
+  equiny-infra:githubRepo: equiny-server
+  gcp:project: equiny
+  gcp:region: us-east

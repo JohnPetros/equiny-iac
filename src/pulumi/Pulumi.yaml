@@ -1,0 +1,5 @@
+name: equiny-infra
+description: Infraestrutura GCP do Equiny com Pulumi Python
+runtime:
+  name: python
+main: ../equiny/__main__.py
